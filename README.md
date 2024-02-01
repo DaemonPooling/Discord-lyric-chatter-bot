@@ -1,6 +1,6 @@
 # Python meme Magician 🧙‍♂️
 Welcome to LyricChatter Discord bot! A simple and a silly script I made where you can sing with a bot, or by the bot itself :P. Check thumbnail
-![Alt text](thumb.png)
+![Alt text](assets/thumb.png)
 
 ## 🌈 What's Inside?
 - **LyricChatter.py:** This is where the fun things begin! This script serve as the bot's script, so it can sing a lyrics with you, or by itself! 
