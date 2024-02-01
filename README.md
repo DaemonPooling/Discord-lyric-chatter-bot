@@ -45,9 +45,9 @@ cd source
 
 6. **Run LyricChatter.py:**
 ```bash
-python source/fetcher.py
+python fetcher.py
 ```
 
 ## Incoming updates:
-- [] Score rating, a way of rating how well you write your lyrics.
-- [] VC support, this will be either happened or not happened. But I will surely do it, if this is getting a good likes
+- Score rating, a way of rating how well you write your lyrics.
+- VC support, this will be either happened or not happened. But I will surely do it, if this is getting a good likes
