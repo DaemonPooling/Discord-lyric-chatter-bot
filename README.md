@@ -45,7 +45,7 @@ cd source
 
 6. **Run LyricChatter.py:**
 ```bash
-python fetcher.py
+python LyricChatter.py
 ```
 
 ## Incoming updates:
